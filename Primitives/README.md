@@ -5,16 +5,6 @@ This repository is the Formal Plane for Convergent Governance (CG) primitives.
 ## Purpose
 This registry is the canonical, authoritative record of governance primitives. It exists to preserve identity, provenance, constraints, and evolution of primitives over time.
 
-## Semantic Plane (Non-Authoritative)
-
-Exploratory notes, diagrams, and working definitions related to CG primitives
-are maintained in a separate Semantic Plane (Obsidian).
-
-This material supports thinking and synthesis only.
-It is non-authoritative and does not define primitives.
-
-Canonical definitions exist exclusively in this repository.
-
 ## Two-plane rule
 The Semantic Plane may reference the Formal Plane.
 The Formal Plane must never depend on the Semantic Plane.

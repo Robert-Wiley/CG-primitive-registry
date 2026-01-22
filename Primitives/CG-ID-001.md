@@ -55,7 +55,7 @@ This primitive does not replace policy, risk analysis, legal compliance, or tech
 - Current maturity state: Validated
 
 ## 10. Registry Metadata
-- Recorded by: Rob Wiley
+- Recorded by: RobertE. Wiley Jr.
 - Date: 2026-01-22
 - Record version: 1.0
 - Supersedes, superseded by: None

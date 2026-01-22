@@ -1,3 +1,13 @@
+## Semantic Plane (Non-Authoritative)
+
+Exploratory notes, diagrams, and working definitions related to CG primitives
+are maintained in a separate Semantic Plane (Obsidian).
+
+This material supports thinking and synthesis only.
+It is non-authoritative and does not define primitives.
+
+Canonical definitions exist exclusively in this repository.
+
 # CG Primitive Registry, Formal Plane
 
 This repository is the Formal Plane for Convergent Governance (CG) primitives.

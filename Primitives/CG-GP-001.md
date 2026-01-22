@@ -56,7 +56,7 @@ This primitive does not prescribe tools, vendors, cloud patterns, specific workf
 - Current maturity state: Validated
 
 ## 10. Registry Metadata
-- Recorded by: Rob Wiley
+- Recorded by: Robert E Wiley Jr.
 - Date: 2026-01-22
 - Record version: 1.0
 - Supersedes, superseded by: None

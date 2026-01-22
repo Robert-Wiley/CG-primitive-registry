@@ -1,3 +1,10 @@
+# CG Primitive Registry, Formal Plane
+
+This repository is the Formal Plane for Convergent Governance (CG) primitives.
+
+## Purpose
+This registry is the canonical, authoritative record of governance primitives. It exists to preserve identity, provenance, constraints, and evolution of primitives over time.
+
 ## Semantic Plane (Non-Authoritative)
 
 Exploratory notes, diagrams, and working definitions related to CG primitives
@@ -7,13 +14,6 @@ This material supports thinking and synthesis only.
 It is non-authoritative and does not define primitives.
 
 Canonical definitions exist exclusively in this repository.
-
-# CG Primitive Registry, Formal Plane
-
-This repository is the Formal Plane for Convergent Governance (CG) primitives.
-
-## Purpose
-This registry is the canonical, authoritative record of governance primitives. It exists to preserve identity, provenance, constraints, and evolution of primitives over time.
 
 ## Two-plane rule
 The Semantic Plane may reference the Formal Plane.
